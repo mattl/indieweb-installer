@@ -1,0 +1,15 @@
+{
+    "app": {
+        "name":"GNU social",
+	"license-url": "http://www.gnu.org/licenses/agpl-3.0-standalone.html",
+	"url":"http://gnu.io/social",
+	"zip":"http://gnu.io/social/",
+	"email":"mattl@gnu.org",
+	"requires": {
+	    "curl": "",
+	    "Core": "5.5",
+	    "totally-made-up-extension":""
+	    
+	}
+    }
+}
